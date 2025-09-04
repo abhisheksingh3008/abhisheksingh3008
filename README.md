@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="abhisheksinghh3008@gmail.com" target="blank"><img align="center" <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/32ac30e0-59bc-4be5-8827-fddf6c570d82"alt="mr.singh_3008" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhisheksingh3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek singh" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.singh_3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.singh_3008" height="30" width="40" /></a>
 </p>
